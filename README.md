@@ -1,7 +1,7 @@
 ### 👋 Hello everyone! I'm Igor Goulart!
 
 ### About me
-I'm a simple guy who likes to rappel down a waterfall.
+I'm a simple guy who likes to rappel down a waterfall. ![waterfall](https://raw.githubusercontent.com/igoliveira96/igoliveira96/main/waterfall.png =250x250)
 
 ### Android Developer
 I've been an Android developer since my university days. I remember my first application, an environment data collection application to analyze dream quality. It was amazing to build my first Android app.

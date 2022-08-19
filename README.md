@@ -3,7 +3,7 @@
 ### About me
 I'm a simple guy who likes to rappel down a waterfall.
 
-* I'm Brazilian
+* :earth_americas: I'm Brazilian
 * You can contact me at [igorgoulartoliveira96@gmail.com](mailto:igorgoulartoliveira96@gmail.com)
 
 ### Android Developer

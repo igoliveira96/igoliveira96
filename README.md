@@ -4,8 +4,6 @@
 I'm a simple guy who likes to rappel down a waterfall.
 
 * :earth_americas: I'm Brazilian
-* :email: You can contact me at [igorgoulartoliveira96@gmail.com](mailto:igorgoulartoliveira96@gmail.com)
-*  :office: I'm currently working on [Ioasys](http://https://ioasys.com.br/)
 *  :rocket: I'm one of the founders of the startup [Assina Uai](http://assinauai.com.br/)
 
 ### Android Developer :heart:

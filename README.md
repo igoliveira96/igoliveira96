@@ -4,7 +4,6 @@
 I'm a simple guy who likes to rappel down a waterfall.
 
 * :earth_americas: I'm Brazilian
-*  :rocket: I'm one of the founders of the startup [Assina Uai](http://assinauai.com.br/)
 
 ### Android Developer :heart:
 I've been an Android developer since my university days. I remember my first application, an environment data collection application to analyze dream quality. It was amazing to build my first Android app.
